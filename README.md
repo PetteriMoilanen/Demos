@@ -3,4 +3,5 @@ A repo for demo notebooks of various tools and techniques I've explored. The ide
 
 ## Contents:
 
-- **Introducing Groq** - A short intro
+- [Introducing Groq](Groq_demo.ipynb) - A short Colab notebook introduction to the Groq inference platform.
+
