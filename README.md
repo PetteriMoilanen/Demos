@@ -6,5 +6,4 @@ Will probably contain separate folders for different tools and such, but for now
 ## Contents:
 
 - [Introducing Groq](Groq_demo.ipynb) - A short stand-alone Colab notebook introducing the Groq inference platform.
-- [Introducing Smolagents (and Qwen)](smolagents_demo.ipynb) - A demo/guide to Hugging Face smolagents (plus a bit about Qwen models).
-
+- [Introducing Smolagents (and Qwen)](smolagents_demo.ipynb) - A demo/guide to Hugging Face smolagents (plus a bit about Qwen models). **Under construction!**
