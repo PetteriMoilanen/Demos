@@ -3,7 +3,7 @@ A repo for demo notebooks/scripts of various tools and techniques I've explored.
 
 ## The directory structure
 - **notebooks** folder contains stand-alone Jupyter notebooks demonstrating stuff.
-- **projects** has whole projects with their own dependencies as subfolders.
+- **projects** has whole projects with their own repositories.
 
 ## Contents
 
@@ -11,6 +11,7 @@ A repo for demo notebooks/scripts of various tools and techniques I've explored.
     - [Introducing Groq](Groq_demo.ipynb) - A short stand-alone Colab notebook introducing the Groq inference platform.
     - [Introducing Smolagents (and Qwen)](smolagents_demo.ipynb) - A demo/guide to Hugging Face smolagents (plus a bit about Qwen models). **Under construction!**
 - **projects**
+    - [Football project](https://github.com/PetteriMoilanen/FootieProject) - Exploring English football matches and betting thereon in the Finnish football pool **Vakioveikkaus** (under construction).
 
 ## Links
 
