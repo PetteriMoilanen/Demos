@@ -2,7 +2,12 @@
 A repo for demo notebooks/scripts of various tools and techniques I've explored recently. Most of them are about LLMs and LLM agent systems. The idea is to demonstrate the basics of a tool/library/whatever and also contain links to documentation and other resources.
 
 ## Contents
+### misc folder
 
+Miscellanous stuff I for some reason want to demonstrate.
+
+- Elias-Fano Indexes.pdf - A information retreivela seminar report from my data science studies.
+- 
 ### notebooks folder
 
 Stand-alone Colab notebooks.
