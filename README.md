@@ -13,7 +13,7 @@ A repo for demo notebooks/scripts of various tools and techniques I've explored.
 
 ## Links
 
-There may also be separate repos and demo apps hosted on HF Spaces and other such platforms. Links to them are be in this section.
+Separate repos and demo apps hosted on GitHub and other platforms such as HF Spaces. Links to them are be in this section.
 
 - [Football project](https://github.com/PetteriMoilanen/FootieProject) - Exploring English football matches and betting thereon in the Finnish football pool **Vakioveikkaus** (under construction).
 
