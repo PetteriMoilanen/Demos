@@ -1,8 +1,8 @@
 # Demos
-A repo for demo notebooks/scripts of various tools and techniques I've explored. The idea is to demonstrate the basics of a tool/library/whatever and also contain links to documentation and other resources.
+A repo for demo notebooks/scripts of various tools and techniques I've explored recently. Most of them are about LLMs and LLM agent systems. The idea is to demonstrate the basics of a tool/library/whatever and also contain links to documentation and other resources.
 
 ## The directory structure
-- **notebooks** folder contains stand-alone Colab notebooks demonstrating stuff.
+- **notebooks** folder contains stand-alone Colab notebooks.
 
 ## Contents
 
@@ -16,4 +16,6 @@ A repo for demo notebooks/scripts of various tools and techniques I've explored.
 Separate repos and demo apps hosted on GitHub and other platforms such as HF Spaces. Links to them are be in this section.
 
 - [Football project](https://github.com/PetteriMoilanen/FootieProject) - Exploring English football matches and betting thereon in the Finnish football pool **Vakioveikkaus** (under construction).
-
+- https://github.com/PetteriMoilanen/langchain-academy My fork of the LangChain Acedemy's [Introduction to LangGraph](https://academy.langchain.com/courses/take/intro-to-langgraph/lessons/58238107-course-overview) course material.
+- https://github.com/PetteriMoilanen/intro-to-langsmith Ditto [Introduction to LangSmith](https://academy.langchain.com/courses/take/intro-to-langsmith/lessons/60631027-course-overview).
+- https://github.com/PetteriMoilanen/HY-Full-Stack-MOOC Just started [Full Stack Open](https://fullstackopen.com/) MOOC of Helsinki University. JavaScript, React, etc. This repo is for submitting exercises.
