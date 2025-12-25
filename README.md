@@ -7,7 +7,8 @@ A repo for demo notebooks/scripts of various tools and techniques I've explored 
 Miscellanous stuff I for some reason want to demonstrate.
 
 - [Elias-Fano Indexes.pdf](https://github.com/PetteriMoilanen/Demos/blob/main/misc/Elias-Fano%20Indexes.pdf) - A information retrieval seminar report from my data science studies.
-- 
+- My Master's thesis: [A Review of Proposals for Improvementsin Evaluation of Natural Language Generation](https://helka.helsinki.fi/permalink/358UOH_INST/q5v72t/alma9934756747906253)
+  
 ### notebooks folder
 
 Stand-alone Colab notebooks.
