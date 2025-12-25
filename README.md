@@ -23,4 +23,3 @@ Links to separate repos and demo apps hosted on GitHub and other platforms such 
 - [Football project](https://github.com/PetteriMoilanen/FootieProject) - Exploring English football matches and betting thereon in the Finnish football pool **Vakioveikkaus** (under construction).
 - https://github.com/PetteriMoilanen/langchain-academy My fork of the LangChain Acedemy's [Introduction to LangGraph](https://academy.langchain.com/courses/take/intro-to-langgraph/lessons/58238107-course-overview) course material.
 - https://github.com/PetteriMoilanen/intro-to-langsmith Ditto [Introduction to LangSmith](https://academy.langchain.com/courses/take/intro-to-langsmith/lessons/60631027-course-overview).
-- https://github.com/PetteriMoilanen/HY-Full-Stack-MOOC Just started [Full Stack Open](https://fullstackopen.com/) MOOC of Helsinki University. JavaScript, React, etc. This repo is for submitting exercises.
